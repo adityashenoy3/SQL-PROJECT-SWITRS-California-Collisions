@@ -22,6 +22,6 @@ Some of the pivotal questions addressed in this project include:
 
 ## Technical Details
 - **Language**: SQL
-- **Database**: The queries are designed for SQL databases and have been tested on a specific database setup.
-- **Setup Instructions**: Instructions for setting up the database and importing the data are provided in another section or file.
+- **Database**: The queries are designed for SQL databases and have been tested on a SQLite database setup.
+
 
