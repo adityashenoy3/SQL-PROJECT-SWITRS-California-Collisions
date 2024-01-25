@@ -20,6 +20,8 @@ Some of the pivotal questions addressed in this project include:
 - Is there a correlation between certain days of the week and the prevalence of DUI-related collisions?
 - How do vehicle makes and models correlate with collision frequency and severity?
 
+## Link to Tableau Dashboard: https://public.tableau.com/app/profile/aditya.shenoy7684/viz/CaliforniaCollisionsDashboard/Dashboard1
+
 ## Technical Details
 - **Language**: SQL
 - **Database**: The queries are designed for SQL databases and have been tested on a SQLite database setup.
